@@ -14,7 +14,7 @@
 
 --------
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/sara1541/Adv-Auto-Filter-Bot)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
@@ -133,4 +133,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
  - [Thanks To AlbertEinsteinTG 👀](https://github.com/AlbertEinsteinTG)
- - [PR0FESS0R-99](https://github.com/PR0FESS0R-99), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
+ - [PR0FESS0R-99](https://github.com/sara1541), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
